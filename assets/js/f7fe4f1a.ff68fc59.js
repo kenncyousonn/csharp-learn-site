@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcsharp_learn_site=self.webpackChunkcsharp_learn_site||[]).push([[241],{2035:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/csharp-learn-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
